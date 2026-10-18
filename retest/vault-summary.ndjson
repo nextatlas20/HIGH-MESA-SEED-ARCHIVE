@@ -1,0 +1,3 @@
+{"vault":"East","queued_lots":2,"low_triggers":1,"interval_triggers":2,"earliest_retest":"2046-08-20"}
+{"vault":"North","queued_lots":2,"low_triggers":2,"interval_triggers":1,"earliest_retest":"2046-09-02"}
+{"vault":"South","queued_lots":1,"low_triggers":1,"interval_triggers":1,"earliest_retest":"2046-09-30"}
